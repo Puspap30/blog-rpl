@@ -51,19 +51,22 @@ Jika Anda ingin menjalankan project ini di komputer lokal, ikuti langkah berikut
    https://github.com/Puspap30/blog-rpl
    cd BlogRpl-Puspa
 
- * Install Dependencies
-   composer install
-npm install && npm run build
+ * Install Dependencies :
+
+   composer install npm install && npm run build
 
  * Setup Environment
    Salin file .env.example menjadi .env dan sesuaikan database Anda:
+
    cp .env.example .env
 
- * Generate Key
+ * Generate Key :
+
    php artisan key:generate
 
  * Migrasi Database & Seeding
-   (Membuat tabel dan akun demo otomatis)
+   (Membuat tabel dan akun demo otomatis):
+
    php artisan migrate:fresh --seed
 
  * Jalankan Aplikasi
