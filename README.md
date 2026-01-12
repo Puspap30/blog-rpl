@@ -49,7 +49,7 @@ Jika Anda ingin menjalankan project ini di komputer lokal, ikuti langkah berikut
    git clone
    https://github.com/Puspap30/blog-rpl
    https://github.com/Puspap30/blog-rpl
-   cd BlogRpl-Puspa
+   cd blog-rpl
 
  * Install Dependencies :
 
