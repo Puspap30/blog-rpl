@@ -46,7 +46,10 @@ Jika Anda ingin menjalankan project ini di komputer lokal, ikuti langkah berikut
 
 1. **Clone Repository**
    ```bash
-   git clone [https://github.com/Puspap30/BlogRpl-Puspa.git](https://github.com/Puspap30/BlogRpl-Puspa.git)
+   git clone
+   https://github.com/Puspap30/blog-rpl
+   (https://github.com/Puspap30/BlogRpl-Puspa.git)
+   https://github.com/Puspap30/blog-rpl
    cd BlogRpl-Puspa
 
  * Install Dependencies
@@ -68,6 +71,7 @@ npm install && npm run build
    php artisan serve
 
    Buka http://localhost:8000 di browser Anda.
+   http://127.0.0.1:8000
 🔐 Akun Demo (Login)
  * Email: admin
  * Password: admin123
