@@ -74,12 +74,15 @@ Jika Anda ingin menjalankan project ini di komputer lokal, ikuti langkah berikut
 
    Buka http://localhost:8000 di browser Anda.
    http://127.0.0.1:8000
+   
 🔐 Akun Demo (Login)
  * Email: admin
  * Password: admin123
+   
 📧 Kontak
  * Email: puspapermata975@gmail.com
  * GitHub: Puspap30
+   
 Copyright © 2026 Puspa Permata - Project UAS Pemrograman Internet FKIP UMTAS
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
